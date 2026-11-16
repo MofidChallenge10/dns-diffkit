@@ -1,0 +1,6 @@
+[project]
+name = "dns-diffkit"
+version = "0.1.0"
+description = "Compare DNS address snapshots"
+requires-python = ">=3.10"
+license = {text = "MIT"}
